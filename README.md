@@ -1,6 +1,8 @@
 # Linq Java
 Iterate over a collection is a medieval way to filtering, mapping and ordering. And with Java we are used to work like that. 
 
+[Download LINQ Java](dist/Linq.jar)
+
 ## How it works?
 
 It's easy to use. Just add `import static com.nth.linq.Linq.*;` in your class and that's it!
